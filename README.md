@@ -1,2 +1,2 @@
 # jee-foot
-<b> I'll add a description as soon as possible </b>
+<b> Ceci est un projet expérimental dans l'optique de tester différentes technologies JEE </b>
